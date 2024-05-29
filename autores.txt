@@ -1,2 +1,4 @@
-Tomeu de sa Garriga (tgarriga@cifp.0rg)
+# Fichero autores
+
+ . Germán Cantallops (gcantallops@cifpperedesongall.org)
 
